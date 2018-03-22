@@ -5,10 +5,9 @@ into a full package in the future.
 
 ## Content
 1. [Canopy Height Models](https://github.com/brycefrank/python_lidar_examples/blob/master/Canopy_Height_Model.ipynb)
-Forthcoming
-2. Measurements and Summaries
-3. Ground Filtering
-4. Tree Detection
+2. Measurements and Summaries (Forthcoming)
+3. Ground Filtering (Forthcoming)
+4. Tree Detection (Forthcoming)
 ...etc
 
 ## Contact
