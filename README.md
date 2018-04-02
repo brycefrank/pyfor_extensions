@@ -9,10 +9,9 @@ These examples assume you have a working knowledge of Python, [pandas](https://p
 The following is a living document, with frequent updates. Please check back in for more content as it is added.
 
 ## Content
-1. [Canopy Height Models](./Canopy_Height_Model.ipynb)
-2. [Simple Ground Filter](./Simple_Ground_Filter.ipynb)
-3. Measurements and Summaries (Forthcoming)
-4. Tree Detection (Forthcoming)
+1. [Canopy Height Models](finished/Canopy_Height_Model.ipynb)
+2. [Simple Ground Filter](finished/Simple_Ground_Filter.ipynb)
+3. [Raster Interpolation](finished/Raster_Interpolation.ipynb)
 ...etc
 
 ## Contact
